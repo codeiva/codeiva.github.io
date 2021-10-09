@@ -75,10 +75,10 @@ services.
    
 ## Children’s Privacy
    
-These Services do not address anyone under the age of 13.
+These Services do not address anyone under the age of 6.
 We do not knowingly collect personally
-identifiable information from children under 13 years of age. In the case
-we discover that a child under 13 has provided
+identifiable information from children under 6 years of age. In the case
+we discover that a child under 6 has provided
 us with personal information, we immediately
 delete this from our servers. If you are a parent or guardian
 and you are aware that your child has provided us with
@@ -93,7 +93,7 @@ periodically for any changes. We will
 notify you of any changes by posting the new Privacy Policy on
 this page.
 
-This policy is effective as of 2021-09-04
+This policy is effective as of 2021-10-06
 
 ## Contact Us
 If you have any questions or suggestions about our
