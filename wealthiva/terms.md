@@ -18,7 +18,7 @@ its services, at any time and for any reason. We will never
 charge you for the app or its services without making it very
 clear to you exactly what you’re paying for.
 
-The Wealthify app stores and processes personal data that
+The Wealthiva app stores and processes personal data that
 you have provided to us, in order to provide our
 Service. It’s your responsibility to keep your phone and
 access to the app secure. We therefore recommend that you do
@@ -27,7 +27,7 @@ removing software restrictions and limitations imposed by the
 official operating system of your device. It could make your
 phone vulnerable to malware/viruses/malicious programs,
 compromise your phone’s security features and it could mean
-that the Wealthify app won’t work properly or at all.
+that the Wealthiva app won’t work properly or at all.
 
 Link to privacy policy of third party service providers used by the app:
 * [Google Play Services](https://www.google.com/policies/privacy/).
